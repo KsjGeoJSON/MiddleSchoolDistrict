@@ -1,53 +1,54 @@
-# [国土数値情報 中学校区](http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A32.html)
+# [中学校区（A32）](http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-A32.html)
 
-データ年: 2013年
+- データ元 : [国土数値情報](http://nlftp.mlit.go.jp/ksj/)
+- データ年 : 2013年
 
------
-
-- [北海道 (25.54MB)](./json/01.geojson)
-- [青森県 (5.17MB)](./json/02.geojson)
-- [岩手県 (6.98MB)](./json/03.geojson)
-- [宮城県 (6.35MB)](./json/04.geojson)
-- [秋田県 (3.81MB)](./json/05.geojson)
-- [山形県 (3.58MB)](./json/06.geojson)
-- [福島県 (10.53MB)](./json/07.geojson)
-- [茨城県 (5.00MB)](./json/08.geojson)
-- [栃木県 (3.05MB)](./json/09.geojson)
-- [群馬県 (4.73MB)](./json/10.geojson)
-- [埼玉県 (4.76MB)](./json/11.geojson)
-- [千葉県 (6.20MB)](./json/12.geojson)
-- [東京都 (5.18MB)](./json/13.geojson)
-- [神奈川県 (4.35MB)](./json/14.geojson)
-- [新潟県 (6.06MB)](./json/15.geojson)
-- [富山県 (1.56MB)](./json/16.geojson)
-- [石川県 (3.47MB)](./json/17.geojson)
-- [福井県 (3.13MB)](./json/18.geojson)
-- [山梨県 (4.09MB)](./json/19.geojson)
-- [長野県 (7.37MB)](./json/20.geojson)
-- [岐阜県 (5.96MB)](./json/21.geojson)
-- [静岡県 (6.45MB)](./json/22.geojson)
-- [愛知県 (6.37MB)](./json/23.geojson)
-- [三重県 (5.25MB)](./json/24.geojson)
-- [滋賀県 (2.44MB)](./json/25.geojson)
-- [京都府 (2.80MB)](./json/26.geojson)
-- [大阪府 (3.49MB)](./json/27.geojson)
-- [兵庫県 (7.66MB)](./json/28.geojson)
-- [奈良県 (2.84MB)](./json/29.geojson)
-- [和歌山県 (4.06MB)](./json/30.geojson)
-- [鳥取県 (2.11MB)](./json/31.geojson)
-- [島根県 (5.19MB)](./json/32.geojson)
-- [岡山県 (6.20MB)](./json/33.geojson)
-- [広島県 (7.00MB)](./json/34.geojson)
-- [山口県 (5.08MB)](./json/35.geojson)
-- [徳島県 (2.49MB)](./json/36.geojson)
-- [香川県 (3.02MB)](./json/37.geojson)
-- [愛媛県 (5.68MB)](./json/38.geojson)
-- [高知県 (4.85MB)](./json/39.geojson)
-- [福岡県 (5.37MB)](./json/40.geojson)
-- [佐賀県 (2.45MB)](./json/41.geojson)
-- [長崎県 (12.58MB)](./json/42.geojson)
-- [熊本県 (6.36MB)](./json/43.geojson)
-- [大分県 (4.51MB)](./json/44.geojson)
-- [宮崎県 (4.23MB)](./json/45.geojson)
-- [鹿児島県 (11.44MB)](./json/46.geojson)
-- [沖縄県 (4.07MB)](./json/47.geojson)
+| Code | Prefecture | File | Size |
+|:----:| ---------- |:----:| ----:|
+| 01 | 北海道 | [01.geojson](./json/01.geojson) | 25.54MB |
+| 02 | 青森県 | [02.geojson](./json/02.geojson) | 5.17MB |
+| 03 | 岩手県 | [03.geojson](./json/03.geojson) | 6.98MB |
+| 04 | 宮城県 | [04.geojson](./json/04.geojson) | 6.35MB |
+| 05 | 秋田県 | [05.geojson](./json/05.geojson) | 3.81MB |
+| 06 | 山形県 | [06.geojson](./json/06.geojson) | 3.58MB |
+| 07 | 福島県 | [07.geojson](./json/07.geojson) | 10.53MB |
+| 08 | 茨城県 | [08.geojson](./json/08.geojson) | 5.00MB |
+| 09 | 栃木県 | [09.geojson](./json/09.geojson) | 3.05MB |
+| 10 | 群馬県 | [10.geojson](./json/10.geojson) | 4.73MB |
+| 11 | 埼玉県 | [11.geojson](./json/11.geojson) | 4.76MB |
+| 12 | 千葉県 | [12.geojson](./json/12.geojson) | 6.20MB |
+| 13 | 東京都 | [13.geojson](./json/13.geojson) | 5.18MB |
+| 14 | 神奈川県 | [14.geojson](./json/14.geojson) | 4.35MB |
+| 15 | 新潟県 | [15.geojson](./json/15.geojson) | 6.06MB |
+| 16 | 富山県 | [16.geojson](./json/16.geojson) | 1.56MB |
+| 17 | 石川県 | [17.geojson](./json/17.geojson) | 3.47MB |
+| 18 | 福井県 | [18.geojson](./json/18.geojson) | 3.13MB |
+| 19 | 山梨県 | [19.geojson](./json/19.geojson) | 4.09MB |
+| 20 | 長野県 | [20.geojson](./json/20.geojson) | 7.37MB |
+| 21 | 岐阜県 | [21.geojson](./json/21.geojson) | 5.96MB |
+| 22 | 静岡県 | [22.geojson](./json/22.geojson) | 6.45MB |
+| 23 | 愛知県 | [23.geojson](./json/23.geojson) | 6.37MB |
+| 24 | 三重県 | [24.geojson](./json/24.geojson) | 5.25MB |
+| 25 | 滋賀県 | [25.geojson](./json/25.geojson) | 2.44MB |
+| 26 | 京都府 | [26.geojson](./json/26.geojson) | 2.80MB |
+| 27 | 大阪府 | [27.geojson](./json/27.geojson) | 3.49MB |
+| 28 | 兵庫県 | [28.geojson](./json/28.geojson) | 7.66MB |
+| 29 | 奈良県 | [29.geojson](./json/29.geojson) | 2.84MB |
+| 30 | 和歌山県 | [30.geojson](./json/30.geojson) | 4.06MB |
+| 31 | 鳥取県 | [31.geojson](./json/31.geojson) | 2.11MB |
+| 32 | 島根県 | [32.geojson](./json/32.geojson) | 5.19MB |
+| 33 | 岡山県 | [33.geojson](./json/33.geojson) | 6.20MB |
+| 34 | 広島県 | [34.geojson](./json/34.geojson) | 7.00MB |
+| 35 | 山口県 | [35.geojson](./json/35.geojson) | 5.08MB |
+| 36 | 徳島県 | [36.geojson](./json/36.geojson) | 2.49MB |
+| 37 | 香川県 | [37.geojson](./json/37.geojson) | 3.02MB |
+| 38 | 愛媛県 | [38.geojson](./json/38.geojson) | 5.68MB |
+| 39 | 高知県 | [39.geojson](./json/39.geojson) | 4.85MB |
+| 40 | 福岡県 | [40.geojson](./json/40.geojson) | 5.37MB |
+| 41 | 佐賀県 | [41.geojson](./json/41.geojson) | 2.45MB |
+| 42 | 長崎県 | [42.geojson](./json/42.geojson) | 12.58MB |
+| 43 | 熊本県 | [43.geojson](./json/43.geojson) | 6.36MB |
+| 44 | 大分県 | [44.geojson](./json/44.geojson) | 4.51MB |
+| 45 | 宮崎県 | [45.geojson](./json/45.geojson) | 4.23MB |
+| 46 | 鹿児島県 | [46.geojson](./json/46.geojson) | 11.44MB |
+| 47 | 沖縄県 | [47.geojson](./json/47.geojson) | 4.07MB |
